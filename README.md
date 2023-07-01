@@ -1,0 +1,1 @@
+This serves as a follow-along journey of mine with [The Odin Project](https://www.theodinproject.com).
